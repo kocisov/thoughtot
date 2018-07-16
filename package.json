@@ -1,0 +1,25 @@
+{
+  "name": "thoughtot",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "jest --config=jest.config.json"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.4.6",
+    "@types/react-dom": "^16.0.6",
+    "@types/react-icons": "^2.2.5",
+    "@types/uuid": "^3.4.3",
+    "parcel-bundler": "^1.9.7",
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "emotion": "^9.2.6",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-emotion": "^9.2.6",
+    "react-icons": "^2.2.7",
+    "uuid": "^3.3.2"
+  }
+}
